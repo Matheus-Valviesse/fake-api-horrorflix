@@ -1,0 +1,48 @@
+{
+    "catalogo":[
+        {
+            "id":1,
+            "title":"Z nation",
+            "duration":"5 Temporadas",
+            "img":"https://sobreseries.com.br/wp-content/uploads/2014/10/451411.jpg",
+            "sinopse":"",
+            "type":"serie",
+            "generoId":1
+        },
+        {
+            "id":2,
+            "title":"Z nation",
+            "duration":"5 Temporadas",
+            "img":"https://sobreseries.com.br/wp-content/uploads/2014/10/451411.jpg",
+            "sinopse":"",
+            "type":"serie",
+            "generoId":2
+        },
+        {
+            "id":3,
+            "title":"Z nation",
+            "duration":"5 Temporadas",
+            "img":"https://sobreseries.com.br/wp-content/uploads/2014/10/451411.jpg",
+            "sinopse":"",
+            "type":"serie",
+            "generoId":1
+        }
+           
+    ],
+
+    "generos":[
+        {
+            "id":1,
+            "genero":"zombie"
+        }
+    ] ,
+
+    "users":[
+        {
+            "id":1,
+            "user":"valviesse",
+            "password":"666666",
+            "email":"valviesse@teste.com"
+        }
+    ]
+}
